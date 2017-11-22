@@ -1,0 +1,1 @@
+In C++, with generic programming, we don't need the official interface. We just write the algorithms using templates, so they accept any type which just so happens to look like an iterator, regardless of where, when and how they're defined, and whether or not they derive from a common base class or interface.
